@@ -1,0 +1,12 @@
+.table td { 
+  border: 1px solid black;
+  width: 10px;
+  height: 10px;
+}
+.food {
+  background-color: red;
+}
+
+.snake-cell {
+  background-color: black;
+}
